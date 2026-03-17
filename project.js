@@ -2,16 +2,19 @@
 var spinCat1 = createSprite(75, 75);
 var spinCat2 = createSprite(325, 75);
 var scaleCat = createSprite(200, 200);
+var cat = createSprite(350, 275);
 var textVisible = true;
 
 // <---- Visible Settings ---->
 scaleCat.visible = false;
 spinCat1.visible = false;
 spinCat2.visible = false;
+cat.visible = false;
 
 // <---- Scale Setting ---->
 spinCat1.scale = 0.35;
 spinCat2.scale = 0.35;
+cat.scale = 0.35;
 
 // <---- Draw Function ---->
 function draw() {
@@ -30,8 +33,12 @@ function draw() {
     spinCat2.setAnimation("spinCat2");
     spinCat1.visible = true;
     spinCat2.visible = true;
+    // Added another cat as per request from Peer Review
+    cat.setAnimation("spinCat1");
+    cat.visible = true;
+    
     // <- Music ->
-   playSound("nastelbom-happy-birthday-495860.mp3", false);
+  playSound("nastelbom-happy-birthday-495860.mp3", false);
   }
   
 // <---- ScaleCat Settings ---->
@@ -60,4 +67,3 @@ function draw() {
 // <---- Draw ---->
   drawSprites();
 }
-
