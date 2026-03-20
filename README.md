@@ -1,7 +1,7 @@
 # Interactive-Card
 For Code.org lesson 18 of JavaScript for CSD
 
-Final grade will be posted soon. Do a good job on the planner and peer review too!
+Final Grade: 100. Do a good job on the planner and peer review too!
 
 You must have the following sprites:
 - scaleCat
