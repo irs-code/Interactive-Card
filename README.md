@@ -12,6 +12,21 @@ This project is an animated, interactive greeting card. The user is prompted to 
 
 ---
 
+## How to Run
+
+This project is intended to be run inside **Code.org Game Lab**:
+
+1. Open Code.org **Game Lab**.
+2. Create a new project (or open an existing Game Lab project).
+3. Copy/paste the contents of `project.js` into the Game Lab code editor.
+4. Make sure you have animations in the **Animation Tab** with these exact names:
+   - `scaleCat`
+   - `spinCat1`
+   - `spinCat2`
+5. Click **Run**.
+
+---
+
 ## 🎮 How to Use
 
 1. **Press `Space`** to start the card animation — spinning cats appear and the Happy Birthday song plays.
