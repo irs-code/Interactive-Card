@@ -1,4 +1,4 @@
-# Interactive Card 🎂🐱
+# Interactive Card
 
 An interactive birthday card built with JavaScript on [Code.org](https://code.org), created as part of **Lesson 18 of JavaScript for CSD**.
 
@@ -6,7 +6,7 @@ An interactive birthday card built with JavaScript on [Code.org](https://code.or
 
 ---
 
-## 📖 About
+## About
 
 This project is an animated, interactive greeting card. The user is prompted to press the **Space** bar to kick off a birthday celebration complete with spinning cats, music, and a hidden surprise when you click one of the cats.
 
@@ -27,14 +27,14 @@ This project is intended to be run inside **Code.org Game Lab**:
 
 ---
 
-## 🎮 How to Use
+## How to Use
 
 1. **Press `Space`** to start the card animation — spinning cats appear and the Happy Birthday song plays.
 2. **Click the cat in the top right** to reveal a scaling cat accompanied by a cat sound effect.
 
 ---
 
-## 🐾 Required Sprites
+## Required Sprites
 
 The following sprites must be present in the project:
 
@@ -46,7 +46,7 @@ The following sprites must be present in the project:
 
 ---
 
-## 🔊 Sound Attributes
+## Sound Attributes
 
 | Sound | Source |
 |-------|--------|
@@ -55,7 +55,7 @@ The following sprites must be present in the project:
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Interactive-Card/
@@ -65,7 +65,7 @@ Interactive-Card/
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [Code.org Game Lab](https://studio.code.org/projects/gamelab) — JavaScript environment with sprite and sound support
 - Vanilla JavaScript
